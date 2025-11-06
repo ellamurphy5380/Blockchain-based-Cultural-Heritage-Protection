@@ -1,7 +1,4 @@
 ;; Cultural Heritage Registry Smart Contract
-;; A decentralized system for registering, verifying, and protecting cultural heritage artifacts
-
-;; Error constants
 (define-constant ERR_NOT_AUTHORIZED (err u100))
 (define-constant ERR_ARTIFACT_NOT_FOUND (err u101))
 (define-constant ERR_ARTIFACT_ALREADY_EXISTS (err u102))
